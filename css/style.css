@@ -1,0 +1,35 @@
+body {
+    background-color:rgb(193, 193, 188);
+}
+
+img {
+    display: block;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    object-fit: fill;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 34px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+width: 800px;
+margin: 20px auto;
+}
